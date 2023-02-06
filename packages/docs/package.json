@@ -18,6 +18,7 @@
     "@storybook/addon-interactions": "^6.5.16",
     "@storybook/addon-links": "^6.5.16",
     "@storybook/builder-vite": "^0.4.0",
+    "@storybook/mdx2-csf": "^0.0.3",
     "@storybook/react": "^6.5.16",
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^3.1.0",
@@ -25,9 +26,11 @@
     "vite": "^4.1.1"
   },
   "dependencies": {
+    "@ignite-ui/eslint-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/ts-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
