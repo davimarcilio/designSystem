@@ -9,6 +9,7 @@ module.exports = {
     "@storybook/addon-interactions",
     "@storybook/addon-a11y"
   ],
+  "staticDirs": ['../public'],
   "framework": "@storybook/react",
   "core": {
     "builder": "@storybook/builder-vite"
@@ -22,5 +23,6 @@ module.exports = {
     }
 
     return config
-  }
+  },
+  
 }
