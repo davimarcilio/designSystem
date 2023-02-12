@@ -20,6 +20,9 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env:
+          TURBO_TOKEN: wDskGtrPpBqbtsvetU5eQMnZ
+          TURBO_TEAM: vercel.com/
 
       - name: Deploy storybook
         working-directory: ./packages/docs
