@@ -7,5 +7,5 @@
   "access": "restricted",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@ignite-ui/docs"]
+  "ignore": ["@alphacall-ui/docs"]
 }
