@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy-storybook": "storybook-to-ghpages",
     "dev": "start-storybook -p 6006",
     "build": "build-storybook"
   },
@@ -20,6 +21,7 @@
     "@storybook/builder-vite": "0.3.0",
     "@storybook/mdx2-csf": "^0.0.3",
     "@storybook/react": "^6.5.16",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^3.1.0",
     "babel-loader": "^8.3.0",
