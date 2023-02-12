@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@alphacall-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@alphacall-ui/ts-config": "*",
+    "@alphacall-ui/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.5"
   }
