@@ -39,6 +39,6 @@ export const ToastClose = styled(Toast.Close, {
 })
 export const ToastViewport = styled(Toast.Viewport, {
   position: 'fixed',
-  bottom: 5,
-  right: 5,
+  bottom: '$8',
+  right: '$8',
 })
