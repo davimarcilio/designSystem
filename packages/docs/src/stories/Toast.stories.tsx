@@ -13,9 +13,7 @@ export default {
           as={'label'}
           css={{ display: 'flex', flexDirection: 'column', gap: 2 }}
         >
-          <Button onClick={() => setOpen((state) => !state)}>
-            Push Tooltip
-          </Button>
+          <Button onClick={() => setOpen((state) => !state)}>Push Toast</Button>
           {Story({
             args: {
               open,
