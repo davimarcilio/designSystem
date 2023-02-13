@@ -1,5 +1,11 @@
 # @alphacall-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- Added element Tooltip
+
 ## 3.0.0
 
 ### Major Changes
