@@ -20,7 +20,7 @@
 - docs
     - Documentação do projeto, Contem todos os tokens e componentes que serão utilizados no projeto
     - Desenvolvido com StoryBook
-    - [Deploy](https://github.com/davimarcilio/designSystem)
+    - [Deploy](https://davimarcilio.github.io/designSystem/)
 
 ## Techs
 
