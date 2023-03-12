@@ -1,5 +1,11 @@
 # @alphacall-ui/react
 
+## 5.0.1
+
+### Patch Changes
+
+- Fix typing error on textInput component
+
 ## 5.0.0
 
 ### Major Changes

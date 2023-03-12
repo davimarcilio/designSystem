@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Box, Text, TextInput, TextInputProps } from '@alphacall-ui/react'
 
 export default {
-  title: 'Form/Text Input',
+  title: 'Form/TextInput',
   component: TextInput,
   args: {},
   decorators: [
@@ -23,6 +23,7 @@ export default {
 export const Primary: StoryObj<TextInputProps> = {
   args: {
     placeholder: 'Type your name',
+    inputContainerSize: 'md',
   },
 }
 
@@ -35,6 +36,6 @@ export const Disabled: StoryObj<TextInputProps> = {
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
     prefix: 'cal.com/',
-    placehold: 'your-username',
+    placeholder: 'your username',
   },
 }
