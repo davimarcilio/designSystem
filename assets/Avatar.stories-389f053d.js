@@ -1,0 +1,2 @@
+import{A as t}from"./index-b38e606f.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/davimarcilio.png",alt:"Davi Marcilio"},argTypes:{src:{control:"text"},alt:{control:"text"}}},l={},m={args:{src:void 0}},p=["Primary","WithFallback"];export{l as Primary,m as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-389f053d.js.map
